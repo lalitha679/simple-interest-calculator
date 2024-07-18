@@ -1,7 +1,7 @@
 
 
 # Simple Interest Calculator
-it is simple project
+
 This project hosts a simple interest calculator script written in Bash. It is designed to calculate the simple interest based on the principal amount, interest rate, and time period provided by the user.
 
 ## Usage
@@ -13,6 +13,7 @@ To use the Simple Interest Calculator, follow these steps:
 3. Run the script by executing the command: `bash simple-interest.sh`.
 4. Follow the prompts to enter the principal amount, interest rate, and time period.
 5. The script will then calculate and display the simple interest.
+6.for calculating we use  formula ptr/100
 
 ## License
 
