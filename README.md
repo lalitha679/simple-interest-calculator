@@ -1,7 +1,7 @@
 
 
 # Simple Interest Calculator
-
+## it is simple project
 This project hosts a simple interest calculator script written in Bash. It is designed to calculate the simple interest based on the principal amount, interest rate, and time period provided by the user.
 
 ## Usage
